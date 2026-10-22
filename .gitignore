@@ -1,0 +1,12 @@
+# Local editors and operating-system clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Scratch files and exports
+.tmp/
+tmp/
+*.log
